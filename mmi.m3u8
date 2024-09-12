@@ -685,3 +685,26 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",SPORTSTARS 2 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LALIGA TV BAR 
+https://oha.to/play/1980907224/index.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LA LIGA TV HD 
+https://oha.to/play/3923153097/index.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 1
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 1.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 2
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 2.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 3
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 3.m3u8
+
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 4
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 4.m3u8
+
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 5
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 5.m3u8
+
